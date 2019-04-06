@@ -11,3 +11,4 @@ If you like Frogger, You'll love our game! Move fast in this game to reach the r
 Enjoy:) 
 
 ## Inside the game 
+![classic-arcade-game](images/inside_game.png)
