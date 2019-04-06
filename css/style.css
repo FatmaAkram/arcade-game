@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Impact', 'Charcoal', sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    border-bottom: 5px;
+}
+
+li {
+    color: deeppink;
+    display: inline-block;
+    margin: 50px 20px 0px ;
+    font-size: 2em ;
+
+}
